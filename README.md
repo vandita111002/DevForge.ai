@@ -65,25 +65,29 @@ The result is a faster, standardized, and more reliable deployment workflow.
 
 ## 🏠 Home Dashboard
 
-![Home](Docs/images/home.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f28e2daf-577d-45a7-8e85-7feb1e8a8c61" />
+
 
 ---
 
 ## 🔍 Repository Analysis
 
-![Repository Analysis](Docs/images/analysis.png)
+<img width="713" height="690" alt="image" src="https://github.com/user-attachments/assets/f826b821-bafd-48e6-8798-ef6fd3854315" />
+
 
 ---
 
 ## 📦 Generated DevOps Files
 
-![Generated Files](Docs/images/generated-files.png)
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/82096868-3447-46b4-a42f-9cae18eb1dfe" />
+
 
 ---
 
 ## ⚠️ AI Error Analyzer
 
-![Error Analyzer](Docs/images/error-analyzer.png)
+<img width="1915" height="961" alt="image" src="https://github.com/user-attachments/assets/d2f0c41a-d732-4ceb-85f3-f1b506e6cbe6" />
+
 
 ---
 
