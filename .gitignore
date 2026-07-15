@@ -1,0 +1,19 @@
+# Java
+target/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment files
+.env
+
+# Spring config with secrets
+application.properties
+application-local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
