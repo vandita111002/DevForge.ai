@@ -65,7 +65,7 @@ The result is a faster, standardized, and more reliable deployment workflow.
 
 ## 🏠 Home Dashboard
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f28e2daf-577d-45a7-8e85-7feb1e8a8c61" />
+<img width="1918" height="876" alt="image" src="https://github.com/user-attachments/assets/1943b312-c61f-4bc6-9c3c-aa2397fe0ba3" />
 
 
 ---
